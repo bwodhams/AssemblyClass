@@ -1,5 +1,5 @@
 /*
-     Dr. Mark E. Lehr
+     Benjamin Wodhams
      Sept 9th, 2015
      Our first program
 */
